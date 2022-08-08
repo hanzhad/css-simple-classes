@@ -1,0 +1,20 @@
+{
+  "name": "css-simple-classes",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "css/*",
+    "package.json"
+  ],
+  "keywords": [
+    "css",
+    "classes"
+  ],
+  "homepage": "https://github.com/hanzhad/css-simple-classes",
+  "bugs": {
+    "url": "https://github.com/hanzhad/css-simple-classes/issues"
+  },
+  "author": "Hanzha Dmytro",
+  "license": "ISC"
+}
