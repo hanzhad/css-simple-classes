@@ -2,7 +2,7 @@
   "name": "css-simple-classes",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "css/index.css",
   "files": [
     "css/*",
     "package.json"
