@@ -1,0 +1,27 @@
+.d-grid {
+    display: grid;
+}
+
+.g-4 {
+    gap: 4px;
+}
+
+.g-8 {
+    gap: 8px;
+}
+
+.g-12 {
+    gap: 12px;
+}
+
+.g-16 {
+    gap: 16px;
+}
+
+.g-24 {
+    gap: 24px;
+}
+
+.g-32 {
+    gap: 32px;
+}
