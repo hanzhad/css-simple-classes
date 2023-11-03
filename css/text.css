@@ -37,3 +37,11 @@
 .text-start {
     text-align: start !important;
 }
+
+.cursor-pointer {
+    cursor: pointer !important;
+}
+
+.cursor-default {
+    cursor: default; !important
+}
